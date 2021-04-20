@@ -1,0 +1,21 @@
+{
+    "usuarios":[
+       {
+        "id" : 1,
+        "apellido_paterno" : "Garcia",
+        "apellido_materno" : "Ramirez",
+        "nombre" : "carlos",
+        "username" : "cgarcia",
+        "password"  : "e10adc3949ba59abbe56e057f20f883e"
+       } ,
+       {
+        "id" : 2,
+        "apellido_paterno" : "Vallas",
+        "apellido_materno" : "Quelem",
+        "nombre" : "Lee",
+        "username" : "cgarcia",
+        "password"  : "c33367701511b4f6020ec61ded352059"
+       } 
+
+    ]
+}
